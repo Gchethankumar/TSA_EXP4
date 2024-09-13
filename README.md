@@ -73,26 +73,32 @@ plt.show()
 ```
 # OUTPUT:
 ## SIMULATED ARMA(1,1) PROCESS:
+
 ![Screenshot 2024-09-13 093954](https://github.com/user-attachments/assets/77aef347-03c0-4d6d-89cb-a1f5f689002b)
 
 
 ## Partial Autocorrelation
+
 ![Screenshot 2024-09-13 094010](https://github.com/user-attachments/assets/3495b0fd-92bd-49ef-9ff9-f5f8e854f106)
 
 
 ## Autocorrelation
+
 ![Screenshot 2024-09-13 094018](https://github.com/user-attachments/assets/6c23cd84-7a31-47c5-9f75-0321ff1e65e1)
 
 
 ## SIMULATED ARMA(2,2) PROCESS:
+
 ![Screenshot 2024-09-13 094026](https://github.com/user-attachments/assets/23a79b09-44a3-4895-b61e-22f53f62b66d)
 
 
 ## Partial Autocorrelation
+
 ![Screenshot 2024-09-13 094033](https://github.com/user-attachments/assets/7d6dd74f-b6be-4570-8470-67a6a9f5ce5a)
 
 
 ## Autocorrelation
+
 ![Screenshot 2024-09-13 094042](https://github.com/user-attachments/assets/94403f46-8d51-4655-a2d2-fe54ce1444b2)
 
 
